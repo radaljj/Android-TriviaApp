@@ -33,7 +33,7 @@
             android:layout_marginStart="7dp"
             android:layout_marginEnd="7dp"
             android:layout_marginBottom="308dp"
-            app:cardCornerRadius="8dp"
+            app:cardCornerRadius="9dp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="1.0"
